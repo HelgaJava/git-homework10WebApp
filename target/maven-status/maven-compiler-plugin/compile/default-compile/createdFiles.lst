@@ -1,0 +1,5 @@
+ru\itpark\service\FileService.class
+ru\itpark\domain\Auto.class
+ru\itpark\service\AutoService.class
+ru\itpark\servlet\CatalogServlet.class
+ru\itpark\servlet\ImageServlet.class
