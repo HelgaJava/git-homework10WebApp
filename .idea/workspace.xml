@@ -6,14 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c612e8e-cb15-4293-bddd-ee556a40d825" name="Default Changelist" comment="initial commit without apache-tomcat and upload 2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/webapp_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9c612e8e-cb15-4293-bddd-ee556a40d825" name="Default Changelist" comment="initial commit">
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/BUILDING.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/CONTRIBUTING.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/LICENSE" afterDir="false" />
@@ -663,44 +656,7 @@
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/webapps/manager/index.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/webapps/manager/status.xsd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/webapps/manager/xform.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/itpark/domain/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/itpark/service/AutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/itpark/service/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/itpark/servlet/CatalogServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/itpark/servlet/ImageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/bootstrap-css.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/bootstrap-scripts.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/catalog.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/itpark/domain/Auto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/itpark/service/AutoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/itpark/service/FileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/itpark/servlet/CatalogServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/itpark/servlet/ImageServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/dependency/tomcat-dbcp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/dependency/webapp-runner.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/bootstrap-css.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/bootstrap-scripts.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/catalog.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/classes/ru/itpark/domain/Auto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/classes/ru/itpark/service/AutoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/classes/ru/itpark/service/FileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/classes/ru/itpark/servlet/CatalogServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/classes/ru/itpark/servlet/ImageServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/lib/sqlite-jdbc-3.27.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -958,7 +914,7 @@
       <workItem from="1575361243707" duration="10019000" />
       <workItem from="1575443958524" duration="3448000" />
       <workItem from="1575447436492" duration="25000" />
-      <workItem from="1575447502581" duration="728000" />
+      <workItem from="1575447502581" duration="985000" />
     </task>
     <task id="LOCAL-00001" summary="webapp added">
       <created>1575058085982</created>
@@ -1009,7 +965,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575445681340</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initial commit">
+      <created>1575448440833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575448440833</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1019,12 +982,12 @@
     <MESSAGE value="webapp added" />
     <MESSAGE value="webapp corrected" />
     <MESSAGE value="webapp corrected 2" />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="initial commit two" />
     <MESSAGE value="initial commit without apache-tomcat" />
     <MESSAGE value="initial commit without apache-tomcat and upload" />
     <MESSAGE value="initial commit without apache-tomcat and upload 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit without apache-tomcat and upload 2" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="975" y="175" key="#Project_Structure" timestamp="1575361915936">
@@ -1059,10 +1022,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1182" y="429" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575361766617" />
-    <state x="982" y="207" key="CommitChangelistDialog2" timestamp="1575448386033">
+    <state x="982" y="207" key="CommitChangelistDialog2" timestamp="1575448437271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="982" y="207" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575448386033" />
+    <state x="982" y="207" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575448437271" />
     <state width="434" height="438" key="DebuggerActiveHint" timestamp="1575055423225">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
