@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c612e8e-cb15-4293-bddd-ee556a40d825" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/BUILDING.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/CONTRIBUTING.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/LICENSE" afterDir="false" />
@@ -656,6 +657,7 @@
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/webapps/manager/index.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/webapps/manager/status.xsd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-tomcat-9.0.29/webapps/manager/xform.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system-properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -712,7 +714,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaProjects12/gitHomeWork8Advanced" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15875" />
     <property name="project.structure.side.proportion" value="0.2757079" />
@@ -914,7 +916,7 @@
       <workItem from="1575361243707" duration="10019000" />
       <workItem from="1575443958524" duration="3448000" />
       <workItem from="1575447436492" duration="25000" />
-      <workItem from="1575447502581" duration="985000" />
+      <workItem from="1575447502581" duration="3033000" />
     </task>
     <task id="LOCAL-00001" summary="webapp added">
       <created>1575058085982</created>
@@ -972,7 +974,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575448440833</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="travis config">
+      <created>1575448747903</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575448747903</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -987,7 +996,8 @@
     <MESSAGE value="initial commit without apache-tomcat and upload" />
     <MESSAGE value="initial commit without apache-tomcat and upload 2" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="travis config" />
+    <option name="LAST_COMMIT_MESSAGE" value="travis config" />
   </component>
   <component name="WindowStateProjectService">
     <state x="975" y="175" key="#Project_Structure" timestamp="1575361915936">
@@ -1006,6 +1016,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="519" y="12" width="1369" height="896" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575444403084" />
+    <state x="1204" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575450886004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1204" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575450886004" />
     <state x="1245" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1575045454656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -1022,18 +1036,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1182" y="429" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575361766617" />
-    <state x="982" y="207" key="CommitChangelistDialog2" timestamp="1575448437271">
+    <state x="982" y="207" key="CommitChangelistDialog2" timestamp="1575451277642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="982" y="207" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575448437271" />
+    <state x="982" y="207" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575451277642" />
     <state width="434" height="438" key="DebuggerActiveHint" timestamp="1575055423225">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="434" height="438" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1575055423225" />
-    <state x="1115" y="183" key="FileChooserDialogImpl" timestamp="1575447827752">
+    <state x="1115" y="183" key="FileChooserDialogImpl" timestamp="1575449006626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1115" y="183" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575447827752" />
+    <state x="1115" y="183" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575449006626" />
     <state width="900" height="272" key="GridCell.Tab.0.bottom" timestamp="1575447408642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
